@@ -1,6 +1,5 @@
 import React, { Component  } from 'react';
 import 'tachyons';
-import {robots} from './robots';
 import ListaRobots from './Components/ListaRobots';
 import Busqueda from './Components/Busqueda';
 
